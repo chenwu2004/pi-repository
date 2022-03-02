@@ -6,8 +6,8 @@
      </p>
   </description>
    <platform os="all" arch="noarch" version="1.0.0">
-      <package fileName="MMMTF.js"
-               sha1="bfd9df35d185a376e8c9cddc59f9ef3b73dc24af"
+      <package fileName="MMMTF.7z"
+               sha1="1196ED9386DA6BF2A492E7F964210C61CE724659"
                type="documentation"
                releaseDate="20220302">
          <title>
