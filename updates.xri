@@ -2,7 +2,7 @@
 <xri version="1.0">
   <description>
      <p>
-        PixInsight Updates — The main PixInsight repository at Pleiades Astrophoto.
+        PixelMath Script Updates
      </p>
   </description>
    <platform os="all" arch="noarch" version="1.0.0">
@@ -21,7 +21,7 @@
                This is the script collection from Team Noctua.
             </p>
             <p>
-               Copyright (c) 2022 Noctua Team. All Rights Reserved.
+               Copyright (c) 2022 Team Noctua. All Rights Reserved.
             </p>
          </description>
       </package>
