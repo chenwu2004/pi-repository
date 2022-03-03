@@ -1,48 +1,17 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <xri version="1.0">
-  <description>
-     <p>
-        PixInsight Utility Scripts
-     </p>
-     <p>
-       	Copyright (c) 2017 Hartmut Volker Bornemann. All Rights Reserved.
-     </p>
-  </description>
-   <platform os="all" arch="noarch" version="1.0.0:9.9.9">
-      <package fileName= "Scripts_000.167.zip"
-               sha1= "dc2b82880ab58cd2a5cd1caf2490acf2c6cad572"
-               type= "script"
-               releaseDate= "20220301124835">	
+     <description><p>PixelMath Script Updates</p></description>
+   <platform os="all" arch="noarch" version="1.0.0:9.9.9"><package fileName="MMMTF.7z" sha1="1196ED9386DA6BF2A492E7F964210C61CE724659" type="script" releaseDate="20220302">
          <title>
-            Image Processing and Analysis Utilities.
+            PixelMath Script Collection - Mar 2 2022
          </title>
          <description>
             <p>
-               This update installs or updates my utilities in a PixInsight environment.
-            </p> 
-            <p><b>***History***</b></p>
-               
-<p><b>2DPlot</b></p>
-<p>Satellite track removal tool removed. Use SKill.js instead.</p>
-<p></p>
-<p>SKill NEW</p>
-<p>Satellite track Kill. Easy to use tool helps over painting of satellite tracks with black pixels.</p>
-<p>Optional one can replace the tracks with pixels from a reference view.</p>
-<p></p>
-<p><b>MaskGen</b></p>
-<p>One bug caused by 'red star button' killed.</p>
-<p>Performance improved when extreme long FITS headers found in in the active window</p>
-<p></p>
-<p><b>HRDiagram</b></p>
-<p>Minimum distance added to star selection filter, default 0 kpc</p>
-<p></p>
-<p><b>2DPlot</b></p>
-<p>GUI changed to better recognize the key functions (readout pixel, erase satellite tracks)</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+               This is the script collection from Team Noctua.
+            </p>
+            <p>
+               Copyright (c) 2022 Team Noctua. All Rights Reserved.
+            </p>
          </description>
       </package>
    </platform>
